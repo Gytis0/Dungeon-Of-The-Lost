@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lever
+  - 1#puzzleArea
+  - PressurePlate
+  - 2#puzzleArea
+  - Placeholder
+  - JEBAIT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BehindWalls
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2771335339
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player POV
+    uniqueID: 3094181077
+    locked: 0
+  - name: Altar
+    uniqueID: 567991579
+    locked: 0
+  - name: AltarOnFloor
+    uniqueID: 3403267515
+    locked: 0
+  - name: AltarBehindWalls
+    uniqueID: 331651547
+    locked: 0
+  - name: Player
+    uniqueID: 938147581
+    locked: 0
+  - name: BehindWalls
+    uniqueID: 2418497929
+    locked: 0
+  - name: Text
+    uniqueID: 3815459553
+    locked: 0
+  - name: Roof
+    uniqueID: 3359438899
+    locked: 0
